@@ -49,3 +49,4 @@ rrmp/
 ## Changelog
 
 - [Stage 1] Initial project setup with FastAPI, Vue 3, pywebview, and Tailwind CSS
+- [Stage 1] Database models: Track, Folder, Playlist, PlaylistTrack, RecentlyPlayed with Alembic migrations
